@@ -188,3 +188,4 @@ while running:
         afficher_message_tk("Victoire ! Tous les fichiers sont déchiffrés.", "green")
         os.remove(KEY_FILE)
         break
+
